@@ -34,7 +34,7 @@
                 <action android:name="android.intent.action.VIEW"/>
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.BROWSABLE"/>
-                <data android:scheme="myapp"/>
+                <data android:scheme="amplifyauth"/>
             </intent-filter>
         </activity>
         <!-- Don't delete the meta-data below.
